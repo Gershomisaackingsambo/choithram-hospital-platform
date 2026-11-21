@@ -1,0 +1,10 @@
+# Local settings and secrets
+config.php
+
+# User uploads (profile pictures)
+uploads/profiles/*
+!uploads/profiles/.gitkeep
+
+# Backups and archives
+*.zip
+*.bak
